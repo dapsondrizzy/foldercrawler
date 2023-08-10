@@ -1,5 +1,5 @@
 import os
-#import shutil
+import shutil
 # imported shutil to move from the source directory to the directory i want to push
 #shutil.move(r'C:\Users\DAPSON\Documents\Backend\masteratwi\walkdirectories.py',r'C:\Users\DAPSON\Documents\directorywalker\direcroam.py')
 
